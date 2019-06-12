@@ -1,4 +1,4 @@
-## JS系列
+## JavaScript系列
 1. [event loop](https://github.com/BenFeiJr/notes/issues/5)
 2. [渲染](https://github.com/BenFeiJr/notes/issues/6)
 3. [class](https://github.com/BenFeiJr/notes/issues/8)
@@ -6,6 +6,7 @@
 5. [module](https://github.com/BenFeiJr/notes/issues/10)
 6. [实现一个符合Promise A+标准的Promise](https://github.com/BenFeiJr/notes/issues/11)
 7. [深拷贝](https://github.com/BenFeiJr/notes/issues/28)
+8. [函数防抖和节流](https://github.com/BenFeiJr/notes/issues/29)
 
 
 ## CSS系列
